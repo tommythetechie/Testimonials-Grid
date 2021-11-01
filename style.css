@@ -105,13 +105,14 @@ header {
 
   }
   .jeanette {
-
+    grid-row-start: span 2;
   }
 	.patrick {
     grid-row-start: span 1;
-    grid-column-start: span 2;
+    grid-column-start: span 1;
   }
   .kira {
-    grid-row-start: span 2;
+    grid-row-start: span 1;
+    grid-column-start: span 2;
   }
 }
